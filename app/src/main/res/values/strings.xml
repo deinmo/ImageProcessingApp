@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Student Application</string>
+    <string name="Radiobutton1">First Image</string>
+    <string name="Radiobutton2">Second Image</string>
+    <string name="Radiobutton3">Third Image</string>
+    <string name="Radiobutton4">Fourth Image</string>
+    <string name="Radiobutton5">Fifth Image</string>
+    <string name="Radiobutton6">Sixth Image</string>
+    <string name="Button">Deal With Image</string>
 </resources>
